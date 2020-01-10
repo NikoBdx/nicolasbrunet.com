@@ -1,0 +1,58 @@
+.carousel-indicators_1 {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 50px;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+    color: white;
+    font-size: 1.5em;
+}
+
+.carousel-indicators_2 {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 150px;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+    color: white;
+    font-size: 1 em;
+}
+
+.adresse{
+    line-height: 0.5 !important;
+}
+
+.margin-top-bottom-50{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.absolute-navbar{
+    position: absolute;
+    top: 10px;
+    right: 15px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 20px;
+    width: 20px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+}
